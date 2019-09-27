@@ -3,7 +3,7 @@ This repo contains certificates of some of the MOOCs I’ve undertaken (or under
 
 List of all the courses I’ve audited/undertaken/undertaking is as follows:
 
-•	Introduction to Computer Science (CS50x) (edX and Harvard)
+•	[Introduction to Computer Science (CS50x) (edX and Harvard)](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 •	Introduction to Computer Science and Programming using Python (MITx 6.00.1x)
 
