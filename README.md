@@ -47,3 +47,5 @@ List of all the courses I’ve audited/undertaken/undertaking is as follows:
 
 •	[Introduction to Operating Systems (Udacity and Georgia Tech.)](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 
+[Data Science for Environmental Modelling and Renewables (University of Glasgow)] (https://www.futurelearn.com/courses/data-science-environmental-modelling)
+
